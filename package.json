@@ -28,5 +28,8 @@
     "host_permissions": [
       "https://*/*"
     ]
+  },
+  "volta": {
+    "node": "16.19.1"
   }
 }
